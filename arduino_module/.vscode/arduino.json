@@ -1,0 +1,7 @@
+{
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "programmer": "avrisp",
+    "sketch": "arduino_module.ino",
+    "port": "/dev/tty.usbserial-10"
+}

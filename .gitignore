@@ -1,4 +1,5 @@
-/build/
-/build-linux/
 /.vscode/
-/compile_commands.json
+/mav.parm
+/mav.tlog*
+/venv
+.DS_Store
